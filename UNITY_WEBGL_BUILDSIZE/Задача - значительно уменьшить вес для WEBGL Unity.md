@@ -12,13 +12,13 @@
 
 ### Ограничение размера спрайтов и текстур в редакторе
 - [ ] Ограничить все ресурсы проекта, включая readonly плагины в 512х512 или 1024х1024
-  ![Pasted image 20241227150757.png](Media/Pasted image 20241227150757.png)
+  ![Pasted image 20241227150757.png](Media/Pasted%20image%2020241227150757.png)
 
 ### Build Settings
 - [ ] Режим упаковки кода (Code Optimization) ставь **Disk Size** или **Disk Size LTO**
-  ![Pasted image 20241227150936.png](Media/Pasted image 20241227150936.png)
+  ![Pasted image 20241227150936.png](Media/Pasted%20image%2020241227150936.png)
 - [ ] Удалить лишние или не используемые сцены с (Scenes in Build) так как они идут в билд
-  ![Pasted image 20241227151104.png](Media/Pasted image 20241227151104.png)
+  ![Pasted image 20241227151104.png](Media/Pasted%20image%2020241227151104.png)
 - [ ] У IL2Cpp Code Generation выбрать режим **Faster (smaller) builds**
   ![Pasted image 20241227151231.png](Media/Pasted image 20241227151231.png)
 - [ ] Протестировать конкретно под свой проект режим GZip, если размер уменьшился, оставляй его, если увеличился, значит Brotli, тут уже от проекта.
